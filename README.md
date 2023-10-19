@@ -4,7 +4,7 @@ This repository contains a Machine Learning model for wether or not a passenger 
 
 # Dataset
 
-The Titanic Survival Prediction Dataset consists of 418 rows × 12 columns of all .
+The Titanic Survival Prediction Dataset consists of 418 rows × 12 columns of all and has features including passenger id, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin and Embarked.  .
 
 # Requirements
 
